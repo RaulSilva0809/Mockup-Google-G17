@@ -1,0 +1,122 @@
+.navigation{
+    display: flex;
+    justify-content: flex-end;
+    font-family: 'Roboto', sans-serif;
+    margin-right: 50px;
+    font-size: 14px;
+}
+#acceder{
+    background: #1a73e8;
+    border: 1px solid transparent;
+    color: #fff;
+    cursor: pointer;
+    font-family: Google Sans,Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    margin-left: 8px;
+    margin-right: 10px;
+    margin-top: 10px;
+    min-width: 96px;
+    padding: 10px;
+    height: 40px;
+    text-align: center;
+    vertical-align: middle; 
+    border-radius: 4px;
+    box-sizing: border-box; 
+}
+p{
+    padding: 10px;
+}
+span{
+    padding: 10px;
+    margin-top: 10px;
+}
+.icono{
+    margin-top: 200px;
+    display: flex;
+    justify-content:center;
+}
+.search{
+    display: flex;
+    justify-content:center;
+    height: 40px; 
+    
+}
+#lupa{
+    position: absolute;
+    display: block;
+    bottom: 32.3nrem;
+    right: 74rem;
+}
+input::placeholder {
+    text-align: center;
+    font-family: arial,sans-serif;
+}
+
+input{
+    width: 525px;
+    margin-top: 1px;
+    border-radius: 50px;
+    text-align:center;
+}
+.buttons{
+    display: flex;
+    justify-content:center;
+    padding: 30px;
+    height: 30px;
+    
+}
+.button1{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+.button2{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    line-height: 27px;
+    height: 36px;
+    min-width: 54px;
+    text-align: center;
+    cursor: pointer;
+    user-select: none;
+}
+.footer1{
+    margin-top:310px;
+    font-family: arial,sans-serif;
+}
+#footer11{
+    margin-left: 11px;
+}
+.footer2{
+    display: flex;
+    align-items: flex-end;
+    font-family: arial,sans-serif;
+}
+.derecha{
+    margin-left:50%;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+
+
+
